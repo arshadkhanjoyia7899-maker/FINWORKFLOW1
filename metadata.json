@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Expense Workflow Processor",
+  "description": "An intelligent workflow application to process expense transactions. It compares expenses against budgets, flags exceptions using both predefined rules and AI-powered policy analysis, generates bilingual alerts for flagged items, and logs the final results for review.",
+  "requestFramePermissions": []
+}
